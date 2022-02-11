@@ -1,1 +1,239 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+part 1 introduction and system overview
+
+
+
+
+
+part 2 Remove_server.php
+
+
+part 3 theme import
+
+
+
+part 4 admin-login
+
+
+
+
+part 5 dashbord-page
+
+
+part 6 registration form 
+
+
+part 7 student store 
+
+
+
+part 8 student display
+
+
+
+part 9 pagination
+
+
+<section #>
+
+part 10 student edit
+
+
+
+part 11 student delete 
+
+</section #>
+
+
+
+part 12 Model and controller for branch
+
+
+part 13 branch add 
+
+
+
+branch show part 14
+
+
+edit delete operations part 15
+
+
+part 16 Model and controller for course
+
+
+
+part 17 branch store
+
+
+
+part 18 courses show
+
+
+
+part 19 branch insert jquery 
+
+
+
+ part 20 student image insert
+
+
+
+part 21 pagination with searching and sorting 
+
+
+
+
+part 22 dynamic column print 
+
+
+
+part 23 dynamic column print using ajax 
+
+
+
+part 24 student profile show profile page 
+
+
+
+
+part 25 | student fee management 1217
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
